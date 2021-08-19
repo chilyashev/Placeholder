@@ -1,0 +1,32 @@
+{
+    "result": {
+        "data": {
+            "accounts": [
+                {
+                    "id": "6811de17-a08e-4dc6-981a-3ddc0348294f",
+                    "balance": 3.50,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "0a2bf1ad-ad4b-4ce8-b199-6f38b5e25b4b",
+                    "balance": 69.69,
+                    "currency": "USD"
+                },
+                {
+                    "id": "fd755069-6120-4570-9999-ad723fd1b3ec",
+                    "balance": 13.37,
+                    "currency": "EUR"
+                }
+            ]
+        },
+        "pagination": {
+            "currentPage": 1,
+            "pageSize": 10,
+            "totalPages": 1
+        }
+    },
+    "meta": {
+        "status": 200,
+        "message": "She's fine, dude"
+    }
+}
